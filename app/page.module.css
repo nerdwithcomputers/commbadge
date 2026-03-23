@@ -30,6 +30,11 @@
   padding: 120px 60px;
 }
 
+.header {
+  font-family: var(--font-heavyData);
+  
+}
+
 .intro {
   display: flex;
   flex-direction: column;
